@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Firosmalik000
-- 👀 I’m interested in Front End 
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ''
-- 📫 How to reach me firosmalik44@gmail.com
+🚀 Hi, I’m Firos Malik
 
-<!---
-Firosmalik000/Firosmalik000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Fullstack Developer (Laravel & MERN Stack)
+
+🎨 Passionate about Frontend/UI and clean, modern web apps
+
+🛠 Experienced with: Laravel, MySQL, React, Node.js, Tailwind, REST API
+
+🌱 Currently exploring advanced Laravel features & scalable architectures
+
+🤝 Open to collaborating on fullstack web applications
+
+📬 Contact me: firosmalik44@gmail.com
